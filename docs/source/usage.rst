@@ -1,5 +1,5 @@
-Usage
-=====
+Programming
+===========
 
 .. _installation:
 
