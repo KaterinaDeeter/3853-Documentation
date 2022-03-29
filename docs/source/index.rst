@@ -4,7 +4,7 @@ Welcome to Pridetronics' Documentation!
 This website is documentation for team 3853, and has knowledge from various areas of our team.
 If you're looking for more general information about our team, be sure to check out our website 
 `here <https://www.pridetronics.com/>`_.
-Also check our our various social medias:
+Also check out our various social medias:
 
 | Instagram: `@pridetronics3853 <https://www.instagram.com/pridetronics3853/?hl=en/>`_ 
 | Youtube: `Pridetronics Robotics Team <https://www.youtube.com/channel/UCOgZtTsdvrcrhVNaMPUulmQ/>`_ 
@@ -25,5 +25,5 @@ Contents
 .. toctree::
 
    usage
-   api
    revclient
+   PID
