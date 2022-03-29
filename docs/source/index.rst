@@ -1,10 +1,12 @@
 Welcome to Pridetronics' Documentation!
 =======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This website is documentation for team 3853, and has knowledge from various areas of our team.
+If you're looking for more general information about our team, be sure to check out our website 
+`here <https://www.pridetronics.com/>`_.
+Also check our our various social medias:
+
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
