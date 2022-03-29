@@ -10,7 +10,7 @@ Also check out our various social medias:
 | Youtube: `Pridetronics Robotics Team <https://www.youtube.com/channel/UCOgZtTsdvrcrhVNaMPUulmQ/>`_ 
 | Twitter: `@Pridetronics <https://twitter.com/pridetronics?lang=en/>`_ 
 | Facebook: `Pridetronics 3853 <https://www.facebook.com/Pridetronics/>`_ 
-| Twitch:
+| Twitch: `Pridetronics_az <https://www.twitch.tv/pridetronics_az/>`_  
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
