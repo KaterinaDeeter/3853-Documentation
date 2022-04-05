@@ -5,7 +5,7 @@ This will cover Command Based Programming and the Command Scheduler
 * :ref:`whatisit`
 * :ref:`commandschedule`
 
-.. _what:
+.. _whatisit:
 
 What is it?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
