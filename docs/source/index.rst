@@ -23,7 +23,21 @@ Contents
 --------
 
 .. toctree::
-
-   usage
+   :maxdepth: 2
+   :caption: Programming
+   
+   cmd
+   hardware
+   limelight
    revclient
-   PID
+   drive
+   encoders
+   pid
+   navx 
+   ultrasonic
+   wpilibsim
+   configuration
+   github
+   gitkraken
+   documentation
+   
