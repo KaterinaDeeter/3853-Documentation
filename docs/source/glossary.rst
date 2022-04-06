@@ -1,3 +1,6 @@
 Glossary
 ~~~~~~~~
-Quick reference to certain terms
+.. glossary::
+
+  Motor Controllers
+    add definition here
