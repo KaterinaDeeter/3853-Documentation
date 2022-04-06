@@ -54,3 +54,10 @@ Contents
    
    woodieflowers
    
+.. toctree::
+   :maxdepth: 2
+   :caption: Extra
+   
+   glossary
+   contact
+   
