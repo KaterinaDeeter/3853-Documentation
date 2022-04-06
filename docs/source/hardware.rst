@@ -11,7 +11,7 @@ This will outline how to program various things (motor controllers, pistons, ser
 
 Motor Controllers
 ~~~~~~~~~~~~~~~~~
-Outline Motor Controllers
+Outlines :term:`Motor Controllers`.
 
 .. _pistons:
 
