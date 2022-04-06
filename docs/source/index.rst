@@ -12,8 +12,7 @@ Also check out our various social medias:
 | Facebook: `Pridetronics 3853 <https://www.facebook.com/Pridetronics/>`_ 
 | Twitch: `Pridetronics_az <https://www.twitch.tv/pridetronics_az/>`_  
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Quick questions? Check out the :doc:`glossary` section for quick notes on vocabulary.
 
 .. note::
 
@@ -41,9 +40,17 @@ Contents
    gitkraken
    documentation
    
-
+.. toctree::
+   :maxdepth: 2
+   :caption: Electrical
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Build
+   
 .. toctree::
    :maxdepth: 2
    :caption: Business
    
    woodieflowers
+   
