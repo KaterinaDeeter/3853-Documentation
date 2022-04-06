@@ -1,7 +1,7 @@
 Configuration
 =============
 How to configure the RoboRio + Radio  
-.._ REMEBER TO ADD A SPACE HERE
+
 * :ref:`roborio`
 * :ref:`radio`
 
