@@ -17,14 +17,14 @@ Outlines :term:`Motor Controllers`.
 
 Pistons
 ~~~~~~~
-Outline Piston use
+Outline :term:`Piston` use.
 
 .. _servo:
 
 Servo
 ~~~~~
 
-Outlines Servo use
+Outlines :term:`Servo` use
 
 .. _basiccamera:
 
