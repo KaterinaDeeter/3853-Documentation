@@ -43,6 +43,8 @@ Contents
 .. toctree::
    :maxdepth: 2
    :caption: Electrical
+
+   pneumatics
    
 .. toctree::
    :maxdepth: 2

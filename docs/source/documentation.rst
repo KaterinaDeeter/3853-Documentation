@@ -1,3 +1,45 @@
 Documentation
 =============
 How to add to this documentation!
+
+* :ref:`setup`
+* :ref:`rtd`
+* :ref:`creation`
+* :ref:`syntax`
+* :ref:`commits`
+  
+.. _setup:
+
+Getting Started
+~~~~~~~~~~~~~~~
+How to set up your machine to handle it. 
+
+.. _rtd:
+
+Read the Docs
+~~~~~~~~~~~~~
+What is it, and how do we use it?
+
+.. _creation:
+
+Adding Files
+~~~~~~~~~~~~
+How to add files
+
+.. _syntax:
+
+Basic Syntax
+~~~~~~~~~~~~
+Some basic syntax to figure out how to use rst
+
+.. _commits:
+
+Committing
+~~~~~~~~~~
+Committing to the repository (and how to get it on the website)
+
+Clone and download in VSCode. You will have to do things before this.
+Add the rst extension in VS Code (Katie make sure you link the right one)
+and download Python (and then add the Python extension) 
+Don't add the weird esbonio thing it wants because that will add a new uneeded file (try to avoid file conflicts)
+
