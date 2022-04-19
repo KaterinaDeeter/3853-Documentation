@@ -41,6 +41,7 @@ Possible Topics:
 
 * When and how the team was started
 * Noteworthy demographics/numbers of the team (gender, ethnicity, diversity, etc.)
+  
   * FIRST loves specific numbers 
 * Programs started by the team
 * Outreach activities/events
@@ -107,4 +108,4 @@ This is where you will submit various FRC awards. You may need the lead mentor t
 
 Remember to check the submission deadline and submit 2-3 days before the deadline! This is so we don’t have to worry about time zone 
 issues. FIRST usually uses PST for all its deadline times, so you should always aim to submit early to avoid any mess-ups with deadlines
- or with figuring out how the FIRST Dashboard website works. 
+or with figuring out how the FIRST Dashboard website works. 
