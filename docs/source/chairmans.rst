@@ -32,17 +32,16 @@ over how to conduct them.
 
 The Essay
 ^^^^^^^^^
-The Essay is the first part you should start working on RIGHT AWAY. Essays provide an
+The Essay is the first part you should start working on **RIGHT AWAY**. Essays provide an
 overview of the team’s history and activities over the past three years, anything ranging 
 from middle school demonstrations to hosting STEM events. The max character limit for the 
 Essay is 10,000 characters, so plan wisely. Below is a general idea of what info you want to include.
 
 Possible Topics:
+
 * When and how the team was started
 * Noteworthy demographics/numbers of the team (gender, ethnicity, diversity, etc.)
-  
   * FIRST loves specific numbers 
-  
 * Programs started by the team
 * Outreach activities/events
 * Student Leadership
@@ -78,6 +77,7 @@ for questions from the judges. Make sure you practice and time what you want to 
 the interview date. You should make an outline of what you want your 1-3 members to mention.
 
 Possible Topics for the Interview:
+
 * Introduce yourself
 * Clarification on past team events/activities
 * Expanding on current team events/activities
@@ -96,3 +96,15 @@ The essay (and video) must be submitted by a student through the FIRST Dashboard
 `First website <https://www.firstinspires.org/robotics/frc/>`_ all set up and ready to go. Below is a screenshot of the login page. 
 
 .. image:: images/login.png
+
+This is what your FIRST dashboard will look like. Click on the “Certificates & Awards” part under Team Options.
+
+.. image:: images/firstdashboard.png
+
+This is where you will submit various FRC awards. You may need the lead mentor to grant you access as a student award submitter. 
+
+.. image:: images/submissionspage.png
+
+Remember to check the submission deadline and submit 2-3 days before the deadline! This is so we don’t have to worry about time zone 
+issues. FIRST usually uses PST for all its deadline times, so you should always aim to submit early to avoid any mess-ups with deadlines
+ or with figuring out how the FIRST Dashboard website works. 
