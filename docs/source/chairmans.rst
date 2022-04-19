@@ -92,3 +92,7 @@ Read the “Submitted Awards” page for specific requirements for the interview
 
 Submission Process
 ~~~~~~~~~~~~~~~~~~
+The essay (and video) must be submitted by a student through the FIRST Dashboard, so make sure you have your account on the 
+`First website <https://www.firstinspires.org/robotics/frc/>`_ all set up and ready to go. Below is a screenshot of the login page. 
+
+.. image:: images/login.png
