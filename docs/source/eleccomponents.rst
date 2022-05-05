@@ -17,7 +17,11 @@ Electrical Diagram
 
 Wire Strippers
 ^^^^^^^^^^^^^^
+A wire stripper is a small, hand-held device used to strip the electrical insulation from electric wires.
 
+It helps to cut off the plastic insulator around the wires so we are able to solder them and etc.
+
+.. image:: images/EPComponents/wirestripper.png
 Wire Cutters
 ^^^^^^^^^^^^
 
