@@ -3,7 +3,6 @@ Documentation
 How to add to this documentation!
 
 * :ref:`setup`
-* :ref:`rtd`
 * :ref:`creation`
 * :ref:`syntax`
 * :ref:`commits`
@@ -12,13 +11,7 @@ How to add to this documentation!
 
 Getting Started
 ~~~~~~~~~~~~~~~
-How to set up your machine to handle it. 
-
-.. _rtd:
-
-Read the Docs
-~~~~~~~~~~~~~
-What is it, and how do we use it?
+This is going to go over the basic how to's for our documentation. 
 
 .. _creation:
 

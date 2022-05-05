@@ -39,12 +39,14 @@ Contents
    github
    gitkraken
    documentation
+   knownprogissues
    
 .. toctree::
    :maxdepth: 2
    :caption: Electrical
 
-   pneumatics
+   eleccomponents
+   eleclinks
    
 .. toctree::
    :maxdepth: 2

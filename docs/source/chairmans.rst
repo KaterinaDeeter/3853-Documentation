@@ -9,23 +9,23 @@ Chairman's
 
 What is Chairman's?
 ~~~~~~~~~~~~~~~~~~~
-Chairman’s is a prestigious award given by FIRST for teams that demonstrate how they have impacted 
+Chairman's is a prestigious award given by FIRST for teams that demonstrate how they have impacted 
 their communities through STEM and outreach. It basically takes into account everything else the team 
 has done besides building the robots. 
 
-Chairman’s is super important! You submit it every year! :) 
+Chairman's is super important! You submit it every year! :) 
 
-FIRST explains what the Chairman’s Award is in their Submitted Awards 
+FIRST explains what the Chairman's Award is in their Submitted Awards 
 `Resource Library <https://www.firstinspires.org/resource-library/frc/submitted-awards/>`_. This page will 
 also have the specific requirements for submissions that year, so **READ IT CAREFULLY!** You should also check 
-the Chairman’s submission format on the submission portal. Check out the :ref:`submissions` section to 
+the Chairman's submission format on the submission portal. Check out the :ref:`submissions` section to 
 see how to do this. 
 
 .. _parts:
 
 How is Chairman's Broken Up?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Chairman’s typically has three parts: the essay, the video, and the interview. 
+Chairman's typically has three parts: the essay, the video, and the interview. 
 All three of these help judges see the impact of your team in promoting STEM. 
 So to give you some tips, we are going to break down each of these parts and go 
 over how to conduct them.
@@ -33,7 +33,7 @@ over how to conduct them.
 The Essay
 ^^^^^^^^^
 The Essay is the first part you should start working on **RIGHT AWAY**. Essays provide an
-overview of the team’s history and activities over the past three years, anything ranging 
+overview of the team's history and activities over the past three years, anything ranging 
 from middle school demonstrations to hosting STEM events. The max character limit for the 
 Essay is 10,000 characters, so plan wisely. Below is a general idea of what info you want to include.
 
@@ -61,15 +61,15 @@ about STEM.
 
 You should storyboard the outline of the video and figure out who you want to speak in it first. 
 Then pick a few days to film, and give your Media Lead at least 1-2 weeks to work on editing. 
-A week before you submit Chairman’s, review the video with some mentors and give feedback to the Media Lead. 
+A week before you submit Chairman's, review the video with some mentors and give feedback to the Media Lead. 
 
-Read the “Submitted Awards’ page for specific requirements for the video. 
+Read the "Submitted Awards" page for specific requirements for the video. 
 
 
 The Interview
 ^^^^^^^^^^^^^^
 The interview is conducted at competitions. Judges will interview 1-3 student members on the team about 
-their Chairman’s submission. Interviews allow for judges to see more of a personal perspective of how 
+their Chairman's submission. Interviews allow for judges to see more of a personal perspective of how 
 involved with STEM and outreach you were as a student. Only one mentor can be present during the interview, 
 and they must be silent the entire time. 
 
@@ -82,7 +82,7 @@ Possible Topics for the Interview:
 * Introduce yourself
 * Clarification on past team events/activities
 * Expanding on current team events/activities
-* Members’ experiences on the team
+* Members' experiences on the team
 * How the team promotes STEM
 * Anything interesting you were not able to include in your essay
 * Anything else about the team that the judges might find interesting
