@@ -17,17 +17,24 @@ Electrical Diagram
 
 Wire Strippers
 ^^^^^^^^^^^^^^
-A wire stripper is a small, hand-held device used to strip the electrical insulation from electric wires.
-
-It helps to cut off the plastic insulator around the wires so we are able to solder them and etc.
+* A wire stripper is a small, hand-held device used to strip the electrical insulation from electric wires.
+* It helps to cut off the plastic insulator around the wires so we are able to solder them and etc.
 
 .. image:: images/EPComponents/wirestripper.png
 Wire Cutters
 ^^^^^^^^^^^^
+* We use these to cut wires! (Big Surprise!)
+* These also work great for cutting zip ties, you don't want to use scissors to cut them
 
+.. image:: images/EPComponent/wirecutters.png
 Soldering Iron
 ^^^^^^^^^^^^^^
-
+* Soldering is a way to connect two wires
+* Solder melts and connects the two wires making a solid connection
+* Wire sponges made of brass are used to clean the tip of the soldering iron
+  
+.. image:: images/EPComponent/solderingiron.png 
+.. image:: images/EPComponent/soldercleaner.png
 Shrink Tube/Heat Gun
 ^^^^^^^^^^^^^^^^^^^^
 
