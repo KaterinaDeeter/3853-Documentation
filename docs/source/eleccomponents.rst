@@ -2,8 +2,8 @@ Electrical and Pneumatic Components
 =================================== 
 An overview of electrical and pnematic components. Broken up in two parts: 
 
-* :ref: `electrical`
-* :ref: `pneumatics`
+* :ref:`electrical`
+* :ref:`pneumatics`
 
 .. _electrical:
 
