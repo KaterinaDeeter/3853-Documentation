@@ -93,37 +93,98 @@ RoboRio
 .. image:: images/EPComponents/roborio.png
 Motors
 ^^^^^^
+* What is a Drivetrain 
+  * A drivetrain is the system of motors, gears, and wheels that make up the robots drive system.
+* DC Brush Motors
+  * A brushed DC motor uses a configuration of wound wire coils, the armature, acting as a two-pole electromagnet.
+* Brushless Motors
+  * A brushless motor utilizes a permanent magnet as its external rotor.
+.. note:: 
+  Make sure to label the motors so it makes it easier for programmers and yourself to identify the trouble motor
 
+.. image:: images/EPComponents/motordiagram.png 
+.. image:: images/EPComponents/motorinternal.png
 Motor Controllers
 ^^^^^^^^^^^^^^^^^
+* Connects motor to rest of robot
+* Delivers instructions to motors derived from RoboRio and other sources
+* All controllers are connected by CAN wire
+* CAN wire connects them to RoboRio
+* Sole module connecting to motors
+* Connect to PDP  
 
+.. image:: images/EPComponents/motorcontroller.png
 Limit Switch
 ^^^^^^^^^^^^
+* Works as a mechanical brake for a system on the robot 
+* Activated by an object pushing against the switch arm
+* This ties into its two states: whether or not there is connectivity across the circuit
+* Senses a single position of a moving part of the robot
+* Prevents movement from exceeding a certain point
+* Plugs into DIO
 
+.. image:: images/EPComponents/limitswitch.png
 Batteries
 ^^^^^^^^^
+* `Batteries <https://www.batteriesplus.com/product-details/sealed-lead-acid/battery/duracell-ultra/slaa12=18nb>`_ will need an adaptor in order for it to be able to charged/hooked up to the robot.
+* We use 12 volt batteries.
 
+.. image:: images/EPComponents/batteries.png
 RSL Signal Light 
 ^^^^^^^^^^^^^^^^
+* On every robot we have an RSL signal light
+* SUPER IMPORTANT, it tells us and everyone around that the robot is on and activated
+* Connects to the RoboRio next to RSL
 
+.. image:: images/EPComponents/rsl.png
 Power Distribution Panel (PDP)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* This component distributes the power
+* This is where the main battery plugs into
+* All major components and motors plug into the PDP
 
+.. image:: images/EPComponents/pdp.png
 Fuses
 ^^^^^
+* These little guys can often be forgotten (trust me), but the robot will not work without them
+* The fuses plug into the PDP, and determines exactly how much power goes through that output
+* There are 20, 30, and 40 amp fuses for all of the outputs, and 10 amp fuses for the power row of the PDP (as pictured)
 
+.. image:: images/EPComponents/fuses.png 
+.. image:: images/EPComponents/morefuses/png
 Voltage Regulator Module (VRM)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* This component regulates the amount of voltage that goes through the wires
+* *REMEMBER* different components use different amounts of voltage, too much can cause a component to short out
+* This is also used for any additional things you add to the robot (like LED lights :))
 
+.. image:: images/EPComponents/vrm.png
 Circuit Breaker
 ^^^^^^^^^^^^^^^
-
+* A safety device for the robot, if it draws too much power it will automatically shut off! 
+* This is basically the on/off switch for the robot 
+* It connects directly to the battery, under the bolt
+* *REMEMBER* Place this in an accessible place on the robot 
+  
+.. image:: images/EPComponents/oncb.png
+    Circuit Breaker = On
+.. image:: image/EPComponents/offcb.png 
+    Circuit Breaker = Off
 Radio
 ^^^^^
-
+* Gets hooked up to the RoboRio, pretty much the WiFi for the robot
+.. image:: image/EPComponents/radiodiagram.png
+* Where the ethernet cable connects to the robot
+.. image:: image/EPComponents/radio.png
+* This section of the documentation documents setting them up (Programming) (ADD THE LINK-- and do the same for rr)
+  
 Extra Stuff (LEDs, Circuits, etc.)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* All extra circuits on your robot should connect to the VRM or the PDP
+* If you need to draw over 12V use the PDP 
+* Make sure you plug it in to the correct voltage and amperage so you don't end up (WHAT-- PROGRAMMER HAS NO CLUE WHAT THIS IS SUPPOSED TO SAY)
 
+.. image:: image/EPComponents/ledlights.png
 .. _pneumatics:
 
 Pneumatics 
