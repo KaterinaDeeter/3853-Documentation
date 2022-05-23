@@ -165,10 +165,11 @@ Circuit Breaker
 * This is basically the on/off switch for the robot 
 * It connects directly to the battery, under the bolt
 * *REMEMBER* Place this in an accessible place on the robot 
-Circuit Breaker = On
+* Circuit Breaker = On
 .. image:: images/EPComponents/oncb.png
-Circuit Breaker = Off
+* Circuit Breaker = Off
 .. image:: image/EPComponents/offcb.png 
+
 Radio
 ^^^^^
 * Gets hooked up to the RoboRio, pretty much the WiFi for the robot
