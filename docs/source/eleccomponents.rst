@@ -123,7 +123,7 @@ Limit Switch
 * Prevents movement from exceeding a certain point
 * Plugs into DIO
 
-.. image:: images/EPComponents/limitswitch.png
+.. image:: images/EPComponents/limitswitch.jpg
 Batteries
 ^^^^^^^^^
 * `Batteries <https://www.batteriesplus.com/product-details/sealed-lead-acid/battery/duracell-ultra/slaa12=18nb>`_ will need an adaptor in order for it to be able to charged/hooked up to the robot.
@@ -151,7 +151,7 @@ Fuses
 * There are 20, 30, and 40 amp fuses for all of the outputs, and 10 amp fuses for the power row of the PDP (as pictured)
 
 .. image:: images/EPComponents/fuses.png 
-.. image:: images/EPComponents/morefuses/png
+.. image:: images/EPComponents/morefuses.png
 Voltage Regulator Module (VRM)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * This component regulates the amount of voltage that goes through the wires
@@ -165,17 +165,20 @@ Circuit Breaker
 * This is basically the on/off switch for the robot 
 * It connects directly to the battery, under the bolt
 * *REMEMBER* Place this in an accessible place on the robot 
-  
+Circuit Breaker = On
 .. image:: images/EPComponents/oncb.png
-    Circuit Breaker = On
+Circuit Breaker = Off
 .. image:: image/EPComponents/offcb.png 
-    Circuit Breaker = Off
 Radio
 ^^^^^
 * Gets hooked up to the RoboRio, pretty much the WiFi for the robot
+  
 .. image:: image/EPComponents/radiodiagram.png
+
 * Where the ethernet cable connects to the robot
+  
 .. image:: image/EPComponents/radio.png
+
 * This section of the documentation documents setting them up (Programming) (ADD THE LINK-- and do the same for rr)
   
 Extra Stuff (LEDs, Circuits, etc.)
@@ -185,6 +188,7 @@ Extra Stuff (LEDs, Circuits, etc.)
 * Make sure you plug it in to the correct voltage and amperage so you don't end up (WHAT-- PROGRAMMER HAS NO CLUE WHAT THIS IS SUPPOSED TO SAY)
 
 .. image:: image/EPComponents/ledlights.png
+
 .. _pneumatics:
 
 Pneumatics 
