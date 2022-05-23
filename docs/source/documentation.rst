@@ -36,3 +36,4 @@ Add the rst extension in VS Code (Katie make sure you link the right one)
 and download Python (and then add the Python extension) 
 Don't add the weird esbonio thing it wants because that will add a new uneeded file (try to avoid file conflicts)
 
+Inspect element for adding images through google. 
