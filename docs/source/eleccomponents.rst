@@ -172,12 +172,10 @@ Circuit Breaker
 
 Radio
 ^^^^^
-* Gets hooked up to the RoboRio, pretty much the WiFi for the robot
-  
+* Gets hooked up to the RoboRio, pretty much the WiFi for the robot 
 .. image:: image/EPComponents/radiodiagram.png
 
 * Where the ethernet cable connects to the robot
-  
 .. image:: image/EPComponents/radio.png
 
 * This section of the documentation documents setting them up (Programming) (ADD THE LINK-- and do the same for rr)
@@ -187,13 +185,13 @@ Extra Stuff (LEDs, Circuits, etc.)
 * All extra circuits on your robot should connect to the VRM or the PDP
 * If you need to draw over 12V use the PDP 
 * Make sure you plug it in to the correct voltage and amperage so you don't end up (WHAT-- PROGRAMMER HAS NO CLUE WHAT THIS IS SUPPOSED TO SAY)
-
 .. image:: image/EPComponents/ledlights.png
 
 .. _pneumatics:
 
 Pneumatics 
 ~~~~~~~~~~
+.. image:: image/EPComponents/pneumaticsdiagram.png
 
 Pneumatics Diagram
 ^^^^^^^^^^^^^^^^^^
