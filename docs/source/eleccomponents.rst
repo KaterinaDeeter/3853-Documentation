@@ -14,7 +14,7 @@ Electrical
 Electrical Diagram
 ^^^^^^^^^^^^^^^^^^
 
-.. image:: images/EPComponents/elecdiagramimg.png
+.. image:: images/EPComponents/elecdiagram.png
 
 Wire Strippers
 ^^^^^^^^^^^^^^
@@ -166,18 +166,16 @@ Circuit Breaker
 * It connects directly to the battery, under the bolt
 * *REMEMBER* Place this in an accessible place on the robot 
 * Circuit Breaker = On
-.. image:: images/EPComponents/oncb.png
+  .. image:: images/EPComponents/oncb.png
 * Circuit Breaker = Off
-.. image:: image/EPComponents/offcb.png 
+  .. image:: images/EPComponents/offcb.png 
 
 Radio
 ^^^^^
 * Gets hooked up to the RoboRio, pretty much the WiFi for the robot 
-.. image:: image/EPComponents/radiodiagram.png
-
+.. image:: images/EPComponents/radiodiagram.png
 * Where the ethernet cable connects to the robot
-.. image:: image/EPComponents/radio.png
-
+.. image:: images/EPComponents/radio.png
 * This section of the documentation documents setting them up (Programming) (ADD THE LINK-- and do the same for rr)
   
 Extra Stuff (LEDs, Circuits, etc.)
@@ -185,40 +183,67 @@ Extra Stuff (LEDs, Circuits, etc.)
 * All extra circuits on your robot should connect to the VRM or the PDP
 * If you need to draw over 12V use the PDP 
 * Make sure you plug it in to the correct voltage and amperage so you don't end up (WHAT-- PROGRAMMER HAS NO CLUE WHAT THIS IS SUPPOSED TO SAY)
-.. image:: image/EPComponents/ledlights.png
+  
+.. image:: images/EPComponents/ledlights.png
 
 .. _pneumatics:
-
 Pneumatics 
 ~~~~~~~~~~
-.. image:: image/EPComponents/pneumaticsdiagram.png
 
 Pneumatics Diagram
 ^^^^^^^^^^^^^^^^^^
 
+.. image:: images/EPComponents/pneumaticsdiagram.png
+
 Pneumatics Control Module (PCM)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* It's a CAN-based device that provides complete control over the compressor and up to 8 solenoids per module.
+* It connects the pneumatic system to the electrical system
 
+.. image:: images/EPComponents/pcm.png
 Pistons
 ^^^^^^^
+* A disk or short cylinder fitting closely within a tube in which it moves up and down against a liquid or gas.
 
+.. image:: images/EPComponents/pistonsystem.png 
+.. image:: images/EPComponents/piston.png
 Solenoids
 ^^^^^^^^^
+* A solenoid is a type of electromagnet. In a solenoid valve the magnetic field created by a solenoid is used to switch a valve that 
+controls the flow of air in the pneumatic control system.
 
+.. image:: images/EPComponents/solenoids.png
 Tubing
 ^^^^^^
+* The tubing inserts into the connectors (first picture)
+* It's where the air actually flows through 
+* Make sure you have a secure connection or it may leak
 
+.. image:: images/EPComponents/tubingconnection.png 
+.. image:: images/EPComponents/tubing.png 
 Compressor
 ^^^^^^^^^^
+* Compresses the air for the rest of the pneumatics system
+* Connects directly to the PCM to 'compressor out'
 
+.. image:: images/EPComponents/compressor.png
 Air Tank
 ^^^^^^^^
+* This stores the air used for the pneumatic system 
+* Pneumatics tubing connects to each end.
 
+.. image:: images/EPComponents/airtank.png
 Pressure Gauge
 ^^^^^^^^^^^^^^
+* Displays the current pressure in the pneumatic tubes
+* Should never go past 160
 
+.. image:: images/EPComponents/pressuregaugefront.png 
+.. image:: images/EPComponents/pressuregaugeback.png
 Pressure Switch
 ^^^^^^^^^^^^^^^
+* Wires are attached to the two screws and plug into the PCM (pressure sw.)
+* Connects to brass connector near the pressure gauge 
 
 Pressure Relief Valve
 ^^^^^^^^^^^^^^^^^^^^^
