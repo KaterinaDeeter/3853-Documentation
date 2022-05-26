@@ -276,7 +276,7 @@ Schematics (Raul's)
 
 Inspector's Checklist
 ^^^^^^^^^^^^^^^^^^^^^
-* Check the `link <https://firstfrc.blob.core.windows.net/frc2020/Manual/2020-inspection-checklist.pdf>`_ out to know what inspectors 
-look for in the robot. That way you know what to watch out for when putting the components together.
+* Check the `link <https://firstfrc.blob.core.windows.net/frc2020/Manual/2020-inspection-checklist.pdf>`_ out to know what inspectors look for in the robot. 
+That way you know what to watch out for when putting the components together.
 
 
