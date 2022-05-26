@@ -245,22 +245,38 @@ Pressure Switch
 * Wires are attached to the two screws and plug into the PCM (pressure sw.)
 * Connects to brass connector near the pressure gauge 
 
+.. image:: images/EPComponents/pressureswitch.png 
 Pressure Relief Valve
 ^^^^^^^^^^^^^^^^^^^^^
+* A relief valve or pressure relief valve (PRV) is a type of safety valve used to limit the pressure in a system.
+* If something goes wrong with the pressure control system and the air pressure goes too high the valve will open to release it
 
+.. image:: images/EPComponents/prv.png
 Brass Connectors
 ^^^^^^^^^^^^^^^^
+* They come in a wide range of shapes and thread sizes to connect, adapt, or control any air flow.
+* Pneumatics tape is used to seal the part of the brass that connects, it's used to reduce leaks and needs to be on every connector. 
 
+.. image:: images/EPComponents/brassconnectors.png 
+.. image:: images/EPComponents/pneumaticstape.png
 T Brass Connectors
 ^^^^^^^^^^^^^^^^^^
+* It's a brass connector that can connect points in three ways.
 
+.. image:: images/EPComponents/tbrassconnectors.png
 Schematics (Natalie's)
 ^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/EPComponents/schemnat.png
 
 Schematics (Raul's)
 ^^^^^^^^^^^^^^^^^^^
 
+.. image:: images/EPComponents/schemraul.png
+
 Inspector's Checklist
 ^^^^^^^^^^^^^^^^^^^^^
+* Check the `link <https://firstfrc.blob.core.windows.net/frc2020/Manual/2020-inspection-checklist.pdf>`_ out to know what inspectors 
+look for in the robot. That way you know what to watch out for when putting the components together.
 
 
